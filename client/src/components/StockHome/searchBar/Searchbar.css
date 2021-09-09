@@ -1,0 +1,52 @@
+
+.search {
+    margin-top: 35px;
+    width: 603px;
+    height: 50px;
+    border-radius: .5rem;
+    border: none;
+    box-shadow: 0.25rem 0.25rem 0rem #dfdfdf;
+    outline: none;
+   
+}
+.searchDropdown {
+    transform: translate(30%, -5%);
+
+}
+.list-item {
+    width: 466px;
+    height: 34px;
+    border-radius: 0.5px;
+    
+    color: #292626;
+    background-color: white;
+  
+    align-items: center;
+}
+.input-searchbar {
+    display: flex;
+    margin-left: 20rem;
+}
+
+
+.MuiSvgIcon-root {
+    display: flex;
+    margin-top: 47px;
+}
+.search-name {
+    display: inline-block;
+    background: #d7e7f1;
+    width: 405px;
+    font-size: 24px;
+    font-weight: initial;
+    padding: 1px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: .3rem;
+    color: #2c2727;
+    justify-content: space-between;
+    border: #404646;
+    padding-inline-end: 3rem;
+    border-radius: .5rem;
+    box-shadow: 0.25rem 0.25rem 0rem #dfdfdf;
+}

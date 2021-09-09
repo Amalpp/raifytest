@@ -1,0 +1,14 @@
+.headerName{
+    height: 63px;
+    /* background-color: #dcf5ed; */
+    display: flex;
+    padding: 14px;
+    margin-left: 79px;
+    margin-top: 5px;
+    font-size: xx-large;
+}
+.header-rw{
+    background-image: linear-gradient(180deg, #ECF8E8,#E0F2FF);
+    display: flex;
+    height: 76px;
+}
